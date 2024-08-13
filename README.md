@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as an **SAP BI Consultant**
 
-- 🌱 I'm currently pursuing a master's degree 'NEPREV' in th field of **AI**
+- 🌱 I'm currently pursuing a master's degree in th field of **AI**
 
 - 💬 Ask me about **DATA**
 

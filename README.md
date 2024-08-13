@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![covlettt](https://github.com/yassineeea/yassineeea/blob/main/covlett.jpg)](https://example.com)
 <h1 align="center">Hi 👋, I'm Yassine Zamit</h1>
 <h3 align="center">A passionate BI consultant from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -60,8 +60,10 @@
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 </p>
+<br>
 
 [![Yassine's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yassineeea&&theme=xcode)](https://github.com/yassineeea)
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassineeea&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yassineeea" /></p>
 
